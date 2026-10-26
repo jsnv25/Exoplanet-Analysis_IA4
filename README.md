@@ -10,6 +10,7 @@ The habitable-zone calculation identifies **294 planets in the optimistic zone a
 - `nasa_exoplanet_intelligence.csv` — input data file expected by the notebook.
 - `README.md` — project overview and instructions.
 - `exoplanets_cleaned.csv` — generated cleaned dataset.
+- `Report/Team_8.pdf` — Report on NASA Exoplanets Archive.
 - `figures/` — generated analysis charts.
 
 The last two items are created when the notebook runs. Keep the input CSV in the notebook's working directory, or update `CSV_PATH` in the setup cell.
